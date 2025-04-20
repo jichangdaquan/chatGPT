@@ -1,77 +1,80 @@
-# ChatGPT注册完整指南：从零开始轻松创建账号
+# chatGPT注册流程，国内怎么玩chatGPT
 
-探索这款革命性AI对话工具的奇妙世界吗？本指南将为您详细解析账号注册全过程，带您开启智能交互的全新体验。
+chatGPT是什么，能看到这篇文章，应该不需要解释了，下面手把手教大家如何注册chatGPT：
 
-## 注册必备条件清单
+## 注册chatGPT准备工作
 
-开始注册前，请确认您已准备好以下关键要素：
+* 科学上网工具
+* 邮箱
+* 翻译软件
+* 国外手机号接收验证码
 
-* 可靠的网络代理工具
-* 可用的电子邮箱
-* 浏览器翻译扩展
-* 可接收验证码的海外手机号
+### 1. 科学上网工具
 
-### 1. 网络代理工具选择
+免费机场：[v2free](https://w1.v2free.top/auth/register?code=UO4o)， 每天签到可以获得免费流量，延迟还可以，适合需求量不大的用户。
 
-入门级推荐：[v2free](https://w1.v2free.top/auth/register?code=UO4o)
-- 特色功能：每日签到可获取免费流量
-- 连接质量：响应迅速稳定
-- 适合对象：基础需求使用者
+收费机场：[shadowsocks](https://portal.shadowsocks.au/aff.php?aff=24693)， 价格便宜，运行稳定多年，年费￥100左右。
 
-专业级推荐：[shadowsocks](https://portal.shadowsocks.au/aff.php?aff=24693)
-- 核心优势：长期稳定运行
-- 费用说明：年费套餐约100元人民币
-- 最佳用途：需要持续稳定连接的用户
+> 每个机场网站都有教程，根据教程下载订阅
 
-> 所有平台均提供详细的配置教程，按步骤操作即可完成安装
+### 2. 邮箱
 
-### 2. 电子邮箱准备建议
+由于国内邮箱可能收不到验证信息，所以推荐申请Gmail邮箱。Gmail同样需要翻墙使用，注册邮箱请先执行上一部操作。
 
-推荐优先创建Gmail账户，因其与OpenAI平台兼容性最佳。注意事项：
-- 需提前配置好代理工具
-- 访问官网：[https://mail.google.com/](https://mail.google.com/)
-- 按照页面提示完成注册
+申请地址：[https://mail.google.com/](https://mail.google.com/)
 
-### 3. 翻译扩展安装指南
+根据页面提示进行注册即可。
 
-翻译工具的重要性：
-- 实时转换界面语言
-- 帮助理解英文操作说明
-- 提升整体使用体验
+### 3. 翻译软件
 
-推荐配置方案：
-- 推荐浏览器：Chrome
-- 实用扩展：沉浸式翻译（可通过网络搜索下载）
+为什么需要翻译软件，因为现阶段翻译软件很多已经基于AI翻译，效果特别的好。注册英文网站或者使用chatGPT时可以直接网页翻译。浏览器推荐使用Chrome，然后谷歌搜索『沉浸式翻译』下载插件安装即可。
 
-### 4. 海外手机号获取方案
+英语大神请跳过直接看下一步。
 
-为何需要海外号码：
-- 国内号码无法完成验证
-- 用于接收平台验证短信
+### 4. 国外手机号接收验证码
 
-推荐服务平台：[5sim.net](https://5sim.net/)
-- 价格优势：单次验证约0.8元人民币
-- 支付方式：支持支付宝
-- 使用建议：
-  * 选择OpenAI/ChatGPT服务类别
-  * 挑选性价比高的国家号码
-  * 建议按需购买，避免资金闲置
+chatGPT注册时需要提供能接收验证码的手机号，国内手机号是被禁用的，所以需要境外手机号。网上能搜到的免费虚拟号码基本都是不可使用状态，我这里推荐我使用的站点，￥0.8元就可以买一次虚拟号码使用。
 
-## 完整注册流程解析
+网站地址：[https://5sim.net/](https://5sim.net/) 
 
-完成上述准备工作后，请按以下顺序操作：
+网站支持支付宝付款，由于该网站不能退款，所以不要充值太多，够一次使用即可。左面服务选择OpenAI/ChatGPT，然后国家选价格便宜，接码率高一些的就可以。
 
-1. 开启网络代理工具
-2. 访问官网：[https://chat.openai.com/chat](https://chat.openai.com/chat)
-3. 点击"Sign up"按钮开始注册
+> 注意，购买一次是一次验证码发送。多次发送需多次购买。
 
-详细步骤说明：
+## 注册chatGPT
 
-1. 输入已注册的Gmail邮箱
-2. 设置高强度密码（至少8位字符）
-3. 查收并验证邮箱
-4. 填写个人基本信息
-5. 选择国家并输入虚拟号码
-6. 输入收到的验证码完成注册
+上面几步操作完成后我们就可以注册chatGPT了。
 
-[图片说明保持不变]
+打开科学上网软件，浏览器输入网址 [https://chat.openai.com/chat](https://chat.openai.com/chat)
+
+点击sign up
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/1.png)
+
+输入刚刚申请的邮箱地址
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/2.png)
+
+输入密码，大于8个字符
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/3.png)
+
+发送邮箱验证码
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/4.png)
+
+打开邮箱，点击验证按钮
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/5.png)
+
+验证成功输入信息
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/6.png)
+
+选择国家和输入刚刚购买的虚拟手机号
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/7.png)
+
+最后输入虚拟手机号网站收到的验证码完成注册，开始chatGPT之旅
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/8.png)
